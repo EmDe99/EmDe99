@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently learning on React and Typescript!
+Currently learning React and Typescript!
 <!--
 **EmDe99/EmDe99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
