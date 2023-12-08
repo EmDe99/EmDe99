@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Currently working on a React based game website!
-
-- 🌱 Currently learning React and improving my algo knowledge!
+-  Currently learning React and improving my algo knowledge!
 
 <!--
 **EmDe99/EmDe99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
