@@ -1,7 +1,5 @@
 ### Hi there 👋
 
--  Currently learning React, improving my algo knowledge and exploring data analytics!
-
 <!--
 **EmDe99/EmDe99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
